@@ -1,0 +1,17 @@
+[
+  {
+    "file"  : "track1.mp3",
+    "title" : "Track 1",
+    "image_url": "img/IMG_1.jpg"
+  },
+  {
+    "file"  : "track2.mp3",
+    "title" : "Track 2",
+    "image_url": "img/IMG_2.jpg"
+  },
+  {
+    "file"  : "track3.mp3",
+    "title" : "Track 3",
+    "image_url": "img/IMG_3.jpg"
+  }
+]
